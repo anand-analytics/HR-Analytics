@@ -58,6 +58,7 @@ DIVIDE(
 
 
 ```
+---
 ##🏠 Work From Home (WFH) Metrics
 ### WFH Count
 **Purpose:**  
@@ -83,6 +84,7 @@ DIVIDE(
 
 
 ```
+---
 ## 🏥 Wellness & Sick Leave Metrics
 ### Sick Leave Count
 **Purpose:**  
