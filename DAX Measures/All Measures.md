@@ -59,7 +59,7 @@ DIVIDE(
 
 ```
 ---
-##🏠 Work From Home (WFH) Metrics
+## 🏠Work From Home (WFH) Metrics
 ### WFH Count
 **Purpose:**  
 Returns the total number of Work From Home days recorded in the dataset.
