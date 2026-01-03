@@ -116,4 +116,5 @@ This project serves as a **Minimum Viable Product (MVP)** with clear potential f
 - 🏢 **Operational Optimization**  
   - Schedule team-building activities on **high-presence days (Mon/Tue)**
   - Plan maintenance on **low-occupancy days (Fridays)**
+![Snapshot](https://github.com/anand-analytics/HR-Analytics/blob/main/Snapshot%20of%20Dashboard.png)
 
